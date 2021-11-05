@@ -1,0 +1,93 @@
+Sun 31 Oct 2021 06:29:30 PM PDT
+*** compiling with clang++ to create an executable called myprogram
+clang version 7.0.1-8+deb10u2 (tags/RELEASE_701/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+*** running clang-tidy using options from .clang-tidy
+LLVM (http://llvm.org/):
+  LLVM version 7.0.1
+  
+  Optimized build.
+  Default target: x86_64-pc-linux-gnu
+  Host CPU: skylake-avx512
+7639 warnings generated.
+15280 warnings generated.
+22570 warnings generated.
+Suppressed 22570 warnings (22570 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+*** running myprogram
+Path: EEENNNEEEEEESEESSSEEENNNNN
+xxxxxxxxxxxxxxxxxx*x
+x     x*******xxxx*x
+x xxxxx*xxxxx***xx*x
+x xxxxx*xxxxxxx*xx*x
+x x ****     xx*xx*x
+x xxxxxxxxxx xx****x
+xxxxxxxxxxxxxxxxxxxx
+
+
+Path: EEENNNWWWWN
+xxx*xxxxxxxxxxxxxxxx
+x  *****++++++xxxx+x
+x xxxxx*xxxxx+++xx+x
+x xxxxx*xxxxxxx+xx+x
+x x ****     xx+xx+x
+x xxxxxxxxxx xx++++x
+xxxxxxxxxxxxxxxxxxxx
+
+
+Path: EEENNNEEEEEESEESSSEEENNNNEEEEEEEEESSEENEEEEEEEESSSEEEEEEENNEEENEESSSEEEEEEEENNWWWWWNWNN
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*xxxxxxxx
+x     x*******xxxx**********x+xxxxxxxxxxxxxxxxxxxxx*xxxxxxxx
+x xxxxx*xxxxx***xx*xxxxxxxx*x*********xxxxxxxxx***x**xxxxxxx
+x xxxxx*xxxxxxx*xx*x       ***xxxxxxx*xx    ****x*x+******xx
+x x ****     xx*xx*xxxxxxxxxx+x      *xxxxxx*xxxx*xxxxxxx*xx
+x xxxxxxxxxx xx****x++++++++++x      ********xxxx*********xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Path: EEENNNEEEEEESEESSSEEENNNNEEEEEEEEESSEENEEEEEEEESSSEEEEEEENNEEENEESSSEESSSSSEEEEEESSWWWWWWWWNNNWWSWWWSSWWWWWWWNNNWWWWWWWWSWWNNNWSWNWSWNWSWNWSWNWSSSSSWWWNNNWWNWWWWWWSSSWWWWWWSS
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      *******xxxx**********x+xxxxxxxxxxxxxxxxxxxxx xxxxxxxx
+x xxxxx*xxxxx***xx*xxxxxxxx*x*********xxxxxxxxx***x  xxxxxxx
+x xxxxx*xxxxxxx*xx*x       ***xxxxxxx*xx    ****x*x       xx
+x x ****     xx*xx*xxxxxxxxxx+x      *xxxxxx*xxxx*xxxxxxx xx
+x xxxxxxxxxx xx****x++++++++++x xxxxx********xxxx***      xx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*xxxxxxxx
+xxxxxxxxxxxxxxxxxx**********xxxxxxxxx              *xxxxxxxx
+x      *******xxxx**********x xxxxxxxxxxxxxxxxxxxxx*xxxxxxxx
+x xxxxx*xxxxx***xx*xxxxxxxx*x*********xxxxxxxxx***x*+xxxxxxx
+xxxxxxx*xxxxxxx*xx*x       ***xxxxxxx*xx    ****x*x*******xx
+x*******+++++xx*xx*xxxxxxxxxx+x      *xxxxxx*xxxx*xxxxxxx*xx
+x*xxxxxxxxxx+xx****x++++++++++x xxxxx********xxxx*********xx
+x*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Path: EEENNNEEEEEESEESSSEEENNNNEEEEEEEEESSEENEEEEEEEESSSEEEEEEENNEEENEESSSEESSSSSEEEEEESSWWWWWWWWNNNWWSWWWSSWWWWWWWNNNWWWWWWWWSWWNNNWSWNWSWNWSWNWSWNWSSSSSWWWNNNWWNWWWWWWSSSWWWWWWSSSSEEEEEESSSWWWWWWSS
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      *******xxxx**********x+xxxxxxxxxxxxxxxxxxxxx xxxxxxxx
+x xxxxx*xxxxx***xx*xxxxxxxx*x*********xxxxxxxxx***x  xxxxxxx
+x xxxxx*xxxxxxx*xx*x       ***xxxxxxx*xx    ****x*x       xx
+x x ****     xx*xx*xxxxxxxxxx+x      *xxxxxx*xxxx*xxxxxxx xx
+x xxxxxxxxxx xx****x++++++++++x xxxxx********xxxx***      xx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*xxxxxxxx
+xxxxxxxxxxxxxxxxxx**********xxxxxxxxx              *xxxxxxxx
+x      *******xxxx**********x xxxxxxxxxxxxxxxxxxxxx*xxxxxxxx
+x xxxxx*xxxxx***xx*xxxxxxxx*x*********xxxxxxxxx***x*+xxxxxxx
+xxxxxxx*xxxxxxx*xx*x       ***xxxxxxx*xx    ****x*x*******xx
+x*******+++++xx*xx*xxxxxxxxxx+x      *xxxxxx*xxxx*xxxxxxx*xx
+x*xxxxxxxxxx+xx****x++++++++++x xxxxx********xxxx*********xx
+x*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               xxxxxxxx
+x*******      xxxx          x xxxxxxxxxxxxxxxxxxxxx xxxxxxxx
+x+xxxxx*xxxxx   xx xxxxxxxx x         xxxxxxxxx   x  xxxxxxx
+xxxxxxx*xxxxxxx xx xxxxxxxx   xxxxxxx xx        x x       xx
+x*******+++++xx xx xxxxxxxxxx x       xxxxxx xxxx xxxxxxx xx
+x*xxxxxxxxxx+xx    x          x xxxxx        xxxx         xx
+x*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Done!
+*** cleaning up, deleting myprogram
+Sun 31 Oct 2021 06:29:49 PM PDT
